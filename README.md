@@ -59,7 +59,7 @@ npm start
 
 - **Samir Abis** - _Initial work_ - [Samir Abis](https://github.com/samirabis)
 
-See also the list of [contributors](https://github.com/yourusername/text-adventure/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/samirabis/text-adventure/contributors) who participated in this project.
 
 ## License
 
