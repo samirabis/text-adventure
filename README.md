@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/text-adventure.git
+git clone https://github.com/samirabis/text-adventure.git
 ```
 
 Navigate to the project directory:
@@ -57,7 +57,7 @@ npm start
 
 ## Authors
 
-- **Samir Abis** - _Initial work_ - [YourUsername](https://github.com/samirabis)
+- **Samir Abis** - _Initial work_ - [Samir Abis](https://github.com/samirabis)
 
 See also the list of [contributors](https://github.com/yourusername/text-adventure/contributors) who participated in this project.
 
